@@ -1,0 +1,3 @@
+include ':AsyncTaskNeo'
+include ':app'
+rootProject.name = "AsyncTaskNeo"
