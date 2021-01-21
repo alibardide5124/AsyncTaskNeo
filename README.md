@@ -50,6 +50,8 @@ AsyncTaskNeo.executeAsyncTask<Boolean, Int> (
 )
 ```
 note: You will get `inappropriate blocking method` call warning. But don't mind it. There's no problem.
+<br/>
+
 How was it? I hope you use it if you needs this.
 
 License
