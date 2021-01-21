@@ -1,6 +1,7 @@
 AsyncTaskNeo
 ============
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/17f88018afbc490b8b8f8be31778ab5b)](https://app.codacy.com/gh/alibardide5124/AsyncTaskNeo?utm_source=github.com&utm_medium=referral&utm_content=alibardide5124/AsyncTaskNeo&utm_campaign=Badge_Grade)
 [![Version](https://jitpack.io/v/alibardide5124/AsyncTaskNeo.svg)](https://jitpack.io/#alibardide5124/AsyncTaskNeo)
 [![API](https://img.shields.io/badge/API-16%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=16)
 
